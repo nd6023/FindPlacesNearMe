@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab3Map</string>
+    <string name="title_activity_maps">PositionFinder</string>
+    <string name="element_text">Element</string>
+    <string name="grid_layout_manager">Grid Layout Manager</string>
+    <string name="linear_layout_manager">Linear Layout Manager</string>
+
+</resources>
